@@ -91,7 +91,7 @@ const Schedule = () => {
                         </div>
                     ))
                 ) : (
-                    <p className="opacity-50">Belum Diatur🚀</p>
+                    <p className="opacity-50">No Set Yet.</p>
                 )}
             </div>
         </>
