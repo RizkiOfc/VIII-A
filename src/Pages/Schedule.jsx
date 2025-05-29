@@ -28,7 +28,7 @@ const Schedule = () => {
   ["Ainun", "Neysa", "Siti.N", "Rian", "M.Irham"],
   ["Yunar", "Lulu", "Siti.M", "Fauzan", "Rizki"],
   ["Keyva", "Rayhan", "Nazwa", "Afgian", "Lintang"],
-  ["", "Rama", "", "", ""]
+  ["...", "Rama", "...", "...", "..."]
 ];
 
     const dayComponents = [
