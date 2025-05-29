@@ -22,14 +22,13 @@ const Schedule = () => {
     const piketGroup = [
   ["Sazkia", "Nadia", "Indy", "Robi", "Naizar"],
   ["Ghiskya", "Raisa", "Nabila", "Farhan", "Krisna"],
-  ["Apriani", "Vena", "Gina", "Milly", "Achmad.D"],
+  ["Apriani", "Vena", "Gina", "Milly", "Achmad D"],
   ["Nisa", "Juan", "Imel", "Davansa", "Jovan"],
-  ["Ainun", "Neysa", "Siti.N", "Rian", "M.Irham"],
-  ["Yunar", "Lulu", "Siti.M", "Fauzan", "Rizki"],
-  ["Keyva", "Rayhan", "Nazwa", "Afgian", "Lintang"],
-  ["...", "Rama", "...", "...", "..."]
+  ["Ainun", "Neysa", "Siti N", "Rian", "M. Irham"],
+  ["Yuniar", "Lulu", "Siti M", "Fauzan", "Rizki"],
+  ["Keyva", "Rayhan", "Nazwa", "Affian", "Lintang"],
+  [null, "Rama", null, null, null]
 ];
-
     const dayComponents = [
         null, // Kosongkan indeks 0
         Senin,
