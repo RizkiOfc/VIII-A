@@ -17,7 +17,6 @@ const Schedule = () => {
         AOS.refresh()
     }, [])
 
-    let piketGroup = []
 
     // Menentukan kelompok piket berdasarkan hari
     const piketGroup = [
